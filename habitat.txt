@@ -1,0 +1,10 @@
+#Nome   #Descrizione
+Laguna http://vnr.unipg.it/habitat/cerca.do?formato=stampa&idSegnalazione=69
+Lago https://it.wikipedia.org/wiki/Lago
+Palude https://it.wikipedia.org/wiki/Palude  
+Fiume alpino http://vnr.unipg.it/habitat/cerca.do?formato=stampa&idSegnalazione=37
+Fiume mediterranei http://vnr.unipg.it/habitat/cerca.do?formato=stampa&idSegnalazione=98
+Foresta mediterranea http://vnr.unipg.it/habitat/cerca.do?formato=stampa&idSegnalazione=34
+Foresta di conifere https://it.wikipedia.org/wiki/Foreste_di_conifere_temperate
+Ambienti rocciosi http://vnr.unipg.it/habitat/cerca.do?formato=stampa&idSegnalazione=117
+Mare https://it.wikipedia.org/wiki/Mare

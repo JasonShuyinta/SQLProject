@@ -1,0 +1,12 @@
+#Classe     #Nome Specie_in_latino   #Nome Specie_in_italiano Anno  Livello Vulnerabilita   Wikipedia   Peso    Altezza/Lunghezza   Prole  Nome_habitat
+MAMMALIA    Hystrix cristata    Istrice 1758    Minimo https://it.wikipedia.org/wiki/Hystrix_cristata 20Kg 850mm  2 Foresta mediterranea
+MAMMALIA    Chionomys nivalis   Arvicola delle nevi 1842    Minimo  https://it.wikipedia.org/wiki/Chionomys_nivalis 100cm 48g 6 Foresta di conifere
+REPTILIA   Zootoca vivipara  	Lucertola vivipera 1787 Critico https://en.wikipedia.org/wiki/Viviparous_lizard 30g 60cm    NULL    Foresta mediterranea  
+REPTILIA   Vipera ammodytes Vipera dal corno    1758    Critico https://en.wikipedia.org/wiki/Vipera_ammodytes  NULL    60cm    NULL    Foresta mediterranea Foresta di conifere
+REPTILIA   Vipera aspis Vipera comune   1758    Medio   https://en.wikipedia.org/wiki/Vipera_aspis NULL 65cm    NULL    Ambienti rocciosi
+REPTILIA   Vipera berus Marasso 1758    Medio   https://en.wikipedia.org/wiki/Vipera_berus  NULL    70cm    NULL    Foresta mediterranea Foresta di conifere
+REPTILIA   Vipera ursinii   Vipera dell'Orsini  1835    Critico https://en.wikipedia.org/wiki/Vipera_ursinii   NULL 70cm    NULL    Ambienti rocciosi Foresta mediterranea
+REPTILIA   Caretta caretta  Tartaruga caretta 1758  Alto    https://en.wikipedia.org/wiki/Loggerhead_sea_turtle 130kg   110cm   200 Mare
+REPTILIA   Chelonia mydas  Tartaruga verde 1758 Basso   https://en.wikipedia.org/wiki/Green_sea_turtle  500kg   150cm   100 Mare
+ANTHOZOA   Corallium rubrum  Corallo rosso   1758   Critico https://it.wikipedia.org/wiki/Corallium_rubrum  NULL    25cm    NULL   Mare
+ECHINOIDEA Centrostephanus longispinus  Riccio di mare 1845 Alto    https://en.wikipedia.org/wiki/Centrostephanus_longispinus   NULL   7cm  NULL    Mare    Laguna

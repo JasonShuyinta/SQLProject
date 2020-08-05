@@ -1,0 +1,6 @@
+#Classe     #Nome Specie_in_latino   #Nome Specie_in_italiano Anno  Livello Vulnerabilita   Wikipedia   Lunghezza Diametro  Nome_habitat
+Polypodiopsida Marsilea quadrifolia    Trifoglio acquatico comune  1800    Critico https://it.wikipedia.org/wiki/Marsilea_quadrifolia  30cm    15cm Laguna Lago
+Angiosperme Galanthus nivalis   Bucaneve    1753    Critico https://en.wikipedia.org/wiki/Galanthus_nivalis 30cm    5cm Foresta di conifere
+Magnoliopsida Gentiana lutea  Genziana gialla 1753    Alto    https://it.wikipedia.org/wiki/Gentiana_lutea   90cm 20cm  Foresta di conifere
+Magnoliopsida Cyclamen repandum   Ciclamino primaverile Basso https://it.wikipedia.org/wiki/Cyclamen_repandum 15cm 7mm  Foresta mediterranea
+Liliopside  Ophrys pallida  Ofride Pallida  1810  Basso https://it.wikipedia.org/wiki/Ophrys_pallida    17cm    3mm Foresta mediterranea  Foresta mediterranea
