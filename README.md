@@ -1,4 +1,4 @@
-# SQLProject
+# SQLProject (University of Bologna, IT)
 
 **SQL** base project for inserting photos of animals and plants in a **mySQL** database. The system uses **mongoDB** to keep track of logs.
 
